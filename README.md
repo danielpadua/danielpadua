@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Itaú Unibanco](https://github.com/itau)
+
+- 📫 How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/Profile-Daniel%20Padua-blue?logo=linkedin)](https://www.linkedin.com/in/danielpadua/)
+[![Medium Badge](https://img.shields.io/badge/Profile-Daniel%20Padua-%2312100E?logo=medium)](https://medium.com/danielpadua/)
+[![StackOverflow Badge](https://img.shields.io/badge/Profile-Daniel%20Padua-orange?logo=stackoverflow)](https://stackexchange.com/users/13872398/daniel-padua/)
+
 <!--
 **danielpadua/danielpadua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
