@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Itaú Unibanco](https://github.com/itau)
-
 - 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/Profile-Daniel%20Padua-blue?logo=linkedin)](https://www.linkedin.com/in/danielpadua/)
